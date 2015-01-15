@@ -1,0 +1,35 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+}
+
+.first, .second, .third {
+	height: 100%;
+	width: 33%;
+	float: left;
+}
+
+.first {
+	background: #6897E3;
+}
+
+.second {
+	background: #68E3C4;
+}
+
+.third {
+	background: #D2F09E;
+}
+
+.image {
+	width: 100%;
+	height: 25%;
+	background: url(http://www.flowerpictures.net/flower_database/addition-2011/600pixels/stock-flower.jpg);
+}
+
+.space {
+	height: 75%;
+	width:100%;
+}
+
